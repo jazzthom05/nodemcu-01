@@ -1,5 +1,5 @@
 # nodemcu-01
-## Vad är en mikroprocessor?
+## Vad är en mikroprocessor(CPU)?
 Mikroprocessor är den centrala "hjärnan" i datorsystem. Det gör beräkningar och styr programflödet, men behöver andra komponenter för att fungera som ett komplett system.
 
 Viktiga uppgifter
