@@ -7,6 +7,8 @@ Viktiga uppgifter
 * Tar beslut i programmet
 * Flyttar data mellan olika delar av system
 
+<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/0ded7788-59d8-4cff-979a-974a0846a865" />
+
 ## Var används mikroprocessor?
 * Datorer
 * Smartphones
