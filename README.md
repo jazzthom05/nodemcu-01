@@ -18,10 +18,12 @@ Viktiga uppgifter
 * Laptops
 * Spelkonsoler
 * Smarta TV-apparater
-  
+
+#### Bild på NodeMCU ESP8266
+
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6661d1ba-9a99-4551-aa0b-ce243418e298" />
 
-NodeMCU ESP8266
+
 
 ## De två basfunktioner i Arduino
 - I Arduino-programmering finns två funktioner som alltid måste finnas med. Dessa kallas ofta för " de två basfunktionerna" eftersom de är grunden i varje Arduino-sketch
