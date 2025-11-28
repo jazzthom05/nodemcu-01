@@ -14,7 +14,6 @@ Viktiga uppgifter
 ## Var används mikroprocessor?
 * Datorer
 * Smartphones
-* Surfplattor
 * Laptops
 * Spelkonsoler
 * Smarta TV-apparater
