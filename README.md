@@ -8,7 +8,8 @@ Viktiga uppgifter
 * Tar beslut i programmet
 * Flyttar data mellan olika delar av system
 
-<img width="1200" height="800" alt="image" src="https://github.com/user-attachments/assets/0ded7788-59d8-4cff-979a-974a0846a865" />
+![image](https://github.com/user-attachments/assets/2804167b-093a-4b0c-95af-1e098bff5f06)
+
 
 ## Var används mikroprocessor?
 * Datorer
@@ -39,7 +40,6 @@ Körs endast en gång vid start eller reset.
 <img width="435" height="72" alt="Screenshot 2025-11-26 at 11 11 19" src="https://github.com/user-attachments/assets/f906cc95-a509-4695-9b06-c024cc521d8b" />
 
 #### Vad den gör:
-* Innehåller det som ska ske kontinuerligt
 * Upprepar programlogiken
 * Läser sensorer
 * Anropar funktioner som ska köras flera gånger
