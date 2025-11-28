@@ -1,6 +1,6 @@
 I denna repo kommer jag att gå igenom det som jag har lärt mig under veckan.
 
-## Vad är en mikroprocessor(CPU)?
+## Vad är en mikroprocessor?
 Mikroprocessor är den centrala "hjärnan" i datorsystem. Det gör beräkningar och styr programflödet, men behöver andra komponenter för att fungera som ett komplett system.
 
 Viktiga uppgifter
